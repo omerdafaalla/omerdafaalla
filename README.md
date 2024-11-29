@@ -32,8 +32,8 @@ Feel free to reach out to me for collaborations, questions, or just to connect
 
 ## Together we Grow
 
-Thank you for taking the time to explor my work.Iam passionate
+Thank you for taking the time to explore my work.Iam passionate
  about learning,sharing,
- and working together to make meaningfull contribution.
+ and working together to make meaningful contribution.
  let continue to push the boundaries
  of what is possible and create better future.
