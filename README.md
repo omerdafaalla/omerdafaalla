@@ -7,9 +7,10 @@ Hello and welcome to my GitHub profile! I am excited to share my journey
 ## About Me
 
 - **Full Name:** Omer Dafaalla Awadalkareem
-- **Degree:** Bachelor's in Economic and Social Studies from the University of Khartoum
-- **Current Program:** MIT Emerging Talent Program, focused on **computer and data science**.
-- **Experience:** Over 8 years of experience in banking and finance, with expertise in financial modeling, risk assessment, and investment analysis.
+- **Degree:** Bachelor's in Economic and Social Studies
+- **Current Program:** MIT Emerging Talent Program
+- **Experience:** Over 8 years of experience in banking and finance,
+ with expertise in financial modeling, risk assessment, and investment analysis
 
 ## Skills
 
@@ -20,7 +21,7 @@ Hello and welcome to my GitHub profile! I am excited to share my journey
 
 ## Contact
 
-Feel free to reach out to me for collaborations, questions, or just to connect!
+Feel free to reach out to me for collaborations, questions, or just to connect
 
 - **Email:** [omerdafaalla1@gmail.com][def]
 - **LinkedIn:** [LinkedIn Profile][def2]
@@ -30,7 +31,8 @@ Feel free to reach out to me for collaborations, questions, or just to connect!
 
 ## Together we Grow
 
-Thank you for taking the time to explor my work.Iam passionate about learning,
- sharing, and working together to make meaningfull contribution.
-  let continue to push the boundaries of what is possible and create better future.
-  
+Thank you for taking the time to explor my work.Iam passionate
+ about learning,sharing, 
+ and working together to make meaningfull contribution.
+ let continue to push the boundaries 
+ of what is possible and create better future.
