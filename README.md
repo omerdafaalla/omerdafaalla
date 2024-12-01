@@ -1,8 +1,7 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile
 
 Hello and welcome to my GitHub profile I am excited to share my journey
-in the world of computer science, data science, and beyond.
- Feel free to explore my repositories and learn 
+in the world of computer science, data science, and beyond Feel free to explore my repositories and learn
  more about the projects I'm working on.
 
 ## About Me
@@ -18,7 +17,7 @@ financial modeling, risk assessment,investment analysis and Financial Analysis
 - **Programming Languages:** Python,R
 - **Data Science:** Data Analysis, Data Visualization
 - **Finance:** Financial Modeling, Investment Analysis, Risk Management
-- **Tools and Technologies:** Git, GitHub, VSCode, Excel, Power BI
+- **Tools and Technologies:** Git, GitHub, VSCode, Excel,Power BI
 
 ## Contact
 
@@ -29,6 +28,7 @@ Feel free to reach out to me for collaborations, questions, or just to connect
 
 
 ## Together we Grow
+
 Thank you for taking the time to explore my work.
 Iam passionate about learning,sharing,
 and working together to make meaningful
