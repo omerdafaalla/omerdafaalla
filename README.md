@@ -11,7 +11,7 @@ data science, and beyond Feel free
 - **Full Name:** Omer Dafaalla Awadalkareem
 - **Degree:** Bachelor's in Economic and Social Studies
 - **Current Program:** MIT Emerging Talent Program
-- **Experience:** Over 8 years of 
+- **Experience:** Over 8 years of
 experience in banking and finance,
  with expertise in
 financial modeling, risk assessment,
